@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.pk.boma" />
-                  <option name="mobileSdkAppId" value="1:1027618190828:android:357c00a7bd4fe4b830fcc9" />
-                  <option name="projectId" value="boma-422ba" />
-                  <option name="projectNumber" value="1027618190828" />
+                  <option name="appId" value="PLACEHOLDER" />
+                  <option name="mobileSdkAppId" value="" />
+                  <option name="projectId" value="" />
+                  <option name="projectNumber" value="" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
